@@ -1,0 +1,14 @@
+/**
+ * Code by Jake Sherman, adapted from Oracle
+ */
+
+ /**
+  * ReadMe file will describe the contents of the program.
+  */
+
+ This program will start in the main class with the main menu. Two different Widget objects
+ that will each recieve a value for its manufacturer, production number, name, and manufactured date.
+ Get and set methods will "get and set" the values for the variables.
+
+ After the program has executed, the system will print out the two widgets along with all of their information
+ for serial number, date, etc.
